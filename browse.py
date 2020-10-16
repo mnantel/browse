@@ -6,7 +6,7 @@ urls = [
     'https://www.google.com',
     'https://www.fortinet.com',
     'https://cbc.ca',
-    'https://lotoquebec.com'
+    'https://lotoquebec.com',
     'http://192.168.10.3'
 ]
 
