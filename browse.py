@@ -7,6 +7,7 @@ urls = [
     'https://www.fortinet.com',
     'https://cbc.ca',
     'https://lotoquebec.com'
+    'http://192.168.10.3'
 ]
 
 while True:
