@@ -5,8 +5,8 @@ urls = [
     'https://www.facebook.com',
     'https://www.google.com',
     'https://www.fortinet.com',
-    'https://radiocanada.ca',
-    'https://lotoquebec.ca'
+    'https://cbc.ca',
+    'https://lotoquebec.com'
 ]
 
 while True:
